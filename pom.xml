@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Siva test web app</name>
-	      <url>http://3.95.231.119:8081/repository/maven-central/</url>
+	      <name>Siva test web app Release</name>
+	      <url>http://3.95.231.119:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Siva test web app</name>
-	      <url>http://3.95.231.119:8081/repository/maven-central/</url>
+	      <name>Siva test web app snapshots</name>
+	      <url>http://3.95.231.119:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
