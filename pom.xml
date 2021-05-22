@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.23.157.120:8081/repository/maven-public/</url>
+	      <name>Siva test web app</name>
+	      <url>http://3.95.231.119:8081/repository/test_web_app/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.23.157.120:8081/repository/maven-public/</url>
+	      <name>Siva test web app</name>
+	      <url>http://3.95.231.119:8081/repository/test_web_app/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
